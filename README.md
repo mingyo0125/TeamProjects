@@ -8,6 +8,8 @@ https://github.com/chwfi/Graviter
 
 https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 
+![스크린샷 2024-04-24 085809.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/77f0e9c7-328c-4f6a-838c-58fc37438d05/587e5f47-8b98-49b5-b82f-003964e149e8/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-04-24_085809.png)
+
 2023 전공 동아리 시간에 제작한 2D 퍼즐 플랫포머 게임 **Graviter**입니다.
 
 | 장르 | 퍼즐, 어드벤처 |
