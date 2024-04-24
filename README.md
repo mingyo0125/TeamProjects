@@ -94,7 +94,11 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 
 
 > **스토브 정보 확인하기**
+>
+> 
 > [게임 소개 글 바로 가기](https://page.onstove.com/indieboostlab/global/view/9955131?boardKey=123437)
+>
+> 
 > [스토브 스토어 바로 가기](https://store.onstove.com/ko/games/2930)
 
 
