@@ -103,8 +103,17 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 
 #
 
+
 ### 펭덤(Pengdom)
 > **나만의 펭귄 왕국을 완성해가는 전략 디펜스 게임**
+
+<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/77f0e9c7-328c-4f6a-838c-58fc37438d05/f7d853c5-39d6-4c7c-83c1-35b70820551f/Untitled.png" width="720" height="360"/>
+
+
+https://github.com/rlatjdgh1122/GraduationProject
+
+https://youtu.be/AoQhvPTpHc0?si=INXHWZPcfi5KX59m
+
 
 | 장르 | 전략, 디펜스, 시뮬레이션 |
 | --- | --- |
@@ -119,14 +128,5 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
  | 퀘스트 및 튜토리얼 시스템 제작 |
 
 
-
-> **깃허브 확인하기**
-> 
-
-https://github.com/rlatjdgh1122/GraduationProject
-
-![Untitled.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/77f0e9c7-328c-4f6a-838c-58fc37438d05/f7d853c5-39d6-4c7c-83c1-35b70820551f/Untitled.png)
-
-https://youtu.be/AoQhvPTpHc0?si=INXHWZPcfi5KX59m
 
 
