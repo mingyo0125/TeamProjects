@@ -73,6 +73,7 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/8a40cbc6-90d7-4080-8b8f-a9b4e3198609" width="720" height="360"/>
 
+
 https://github.com/chwfi/TeamProject
 
 https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
@@ -85,17 +86,15 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 (개발 5) |
 | 개발 기간 | 2024.01.01 ~ 2024.01.10 |
 
+
 > **프로젝트 내 맡은 역할**
-> 
+>
+
 
 | rag doll을 사용한 플레이어의 흐물거리는 움직임 제작 |
 | --- |
 | 오랫동안 장애물에 부딪히지 않으면 불타는 BurningSystem 제작 |
 
-> **깃허브 확인하기**
-> 
-
-https://github.com/rlatjdgh1122/2024Gamjam
 
 > **스토브 정보 확인하기**
 > 
