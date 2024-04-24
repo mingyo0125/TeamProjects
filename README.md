@@ -4,7 +4,7 @@
 
 #
 
-### GRAVITER
+## GRAVITER
 
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/fb3ee05b-2d9e-4883-be81-a74af8f8371f" width="1280" height="600"/>
 
