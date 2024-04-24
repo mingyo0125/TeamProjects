@@ -4,13 +4,15 @@
 
 ### GRAVITER
 
+![image](https://github.com/mingyo0125/TeamProjects/assets/98925706/fb3ee05b-2d9e-4883-be81-a74af8f8371f)
+
 https://github.com/chwfi/Graviter
 
 https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 
 2023 전공 동아리 시간에 제작한 2D 퍼즐 플랫포머 게임 **GRAVITER**입니다.
 
-<under> 2023 교내 전공 동아리 프로젝트 전체 3위 </under>
+2023 교내 전공 동아리 프로젝트 전체 3위
 
 
 | 장르 | 퍼즐, 어드벤처 |
