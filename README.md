@@ -82,8 +82,7 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 | 장르 | 시뮬레이션, 드로퍼 |
 | --- | --- |
 | 개발 툴, 언어 | C#, Unity |
-| 개발 인원 | 5인 개발
-(개발 5) |
+| 개발 인원 | 5인 (개발 5) |
 | 개발 기간 | 2024.01.01 ~ 2024.01.10 |
 
 
@@ -102,5 +101,32 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 > [스토브 스토어 바로 가기](https://store.onstove.com/ko/games/2930)
 
 
+#
+
+### 펭덤(Pengdom)
+> **나만의 펭귄 왕국을 완성해가는 전략 디펜스 게임**
+
+| 장르 | 전략, 디펜스, 시뮬레이션 |
+| --- | --- |
+| 개발 툴, 언어 | C#, Unity |
+| 개발 인원 | 5인 (개발 5) |
+| 개발 기간 | 2023.11월 ~ 현재 진행중 |
+
+> **프로젝트 내 맡은 역할**
+> | 팩토리 패턴을 이용한 생성 시스템 제작 |
+> | --- |
+> | 생성시스템을 사용한 건물 시스템 제작 |
+> | 퀘스트 및 튜토리얼 시스템 제작 |
+
+
+
+> **깃허브 확인하기**
+> 
+
+https://github.com/rlatjdgh1122/GraduationProject
+
+![Untitled.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/77f0e9c7-328c-4f6a-838c-58fc37438d05/f7d853c5-39d6-4c7c-83c1-35b70820551f/Untitled.png)
+
+https://youtu.be/AoQhvPTpHc0?si=INXHWZPcfi5KX59m
 
 
