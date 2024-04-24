@@ -3,7 +3,7 @@
 
 
 
-### GRAVITER
+### **GRAVITER**
 > **중력 시스템을 이용한 퍼즐 어드벤처 게임**
 
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/fb3ee05b-2d9e-4883-be81-a74af8f8371f" width="720" height="360"/>
@@ -36,7 +36,7 @@ https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 #
 
 
-### REFLECOTR
+### **REFLECOTR**
 > **빛 반사 및 색 조합을 이용한 퍼즐 어드벤처 게임**
 
 
