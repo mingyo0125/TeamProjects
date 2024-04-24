@@ -34,3 +34,31 @@ https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 
 #
 
+### REFLECOTR
+
+<img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/bfd25969-2650-4552-9442-557888b589cb" width="1280" height="600"/>
+
+https://github.com/chwfi/TeamProject
+
+https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
+
+2023 전공 동아리 시간에 제작한 2D 퍼즐 플랫포머 게임 **GRAVITER**입니다.
+
+
+| 장르 | 퍼즐, 어드벤처 |
+| --- | --- |
+| 개발 툴, 언어 | C#, Unity |
+| 개발 인원 | 5인 개발
+(개발 4, 기획 1) |
+| 개발 기간 | 2023.11.01 ~ 2023.11.22 |
+
+
+> **프로젝트 내 맡은 역할**
+> 
+
+| ColorUtility.ToHtmlStringRGB를 이용한 색 조합 시스템 제작 |
+| --- |
+| 어드레서블, 풀링을 이용한 맵 로드 및 리소스 로드 제작 |
+| 타임라인을 이용한 엔딩 컷신 제작 |
+
+
