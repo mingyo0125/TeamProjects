@@ -4,8 +4,7 @@
 
 ### GRAVITER
 
-![image](https://github.com/mingyo0125/TeamProjects/assets/98925706/fb3ee05b-2d9e-4883-be81-a74af8f8371f)
-![title](/img/myImg.png){: width="100" height="100"}
+![image](https://github.com/mingyo0125/TeamProjects/assets/98925706/fb3ee05b-2d9e-4883-be81-a74af8f8371f){: width="100" height="100"}
 
 https://github.com/chwfi/Graviter
 
