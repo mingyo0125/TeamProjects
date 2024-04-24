@@ -88,12 +88,12 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 
 
 > **프로젝트 내 맡은 역할**
->
+> | --- |
+> | rag doll을 사용한 플레이어의 흐물거리는 움직임 제작 |
+>  | 오랫동안 장애물에 부딪히지 않으면 불타는 BurningSystem 제작 |
 
 
-| rag doll을 사용한 플레이어의 흐물거리는 움직임 제작 |
-| --- |
-| 오랫동안 장애물에 부딪히지 않으면 불타는 BurningSystem 제작 |
+
 
 
 > **스토브 정보 확인하기**
