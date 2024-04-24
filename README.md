@@ -21,6 +21,7 @@ https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 (개발 3) |
 | 개발 기간 | 2023.09.06 ~ 2023.11.01 |
 
+
 > **프로젝트 내 맡은 역할**
 > 
 
