@@ -107,7 +107,7 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 ### 펭덤(Pengdom)
 > **나만의 펭귄 왕국을 완성해가는 전략 디펜스 게임**
 
-<img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/d7ddd105-1200-494c-9989-4e9fcc8433dd" width="720" height="360"/>
+<img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/24398b08-a732-4387-bcc4-e139c230bf3f" width="720" height="360"/>
 
 
 https://github.com/rlatjdgh1122/GraduationProject
