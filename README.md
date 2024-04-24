@@ -37,6 +37,8 @@ https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 
 
 ### REFLECOTR
+> **빛 반사 및  색 조합을 이용한 퍼즐 어드벤처 게임**
+
 
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/bfd25969-2650-4552-9442-557888b589cb" width="720" height="360"/>
 
@@ -68,8 +70,12 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 
 ### 너를 위해서라면 마하 12만의 속도도 **견딜** 수 있어
 
-> **지구에 도달 할 때 까지 명왕성을 조작해 장애물을 피하는 드로퍼 게임**
-> 
+<img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/bfd25969-2650-4552-9442-557888b589cb" width="720" height="360"/>
+
+https://github.com/chwfi/TeamProject
+
+https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
+
 
 | 장르 | 시뮬레이션, 드로퍼 |
 | --- | --- |
@@ -97,7 +103,4 @@ https://github.com/rlatjdgh1122/2024Gamjam
 
 [스토브 스토어 바로 가기](https://store.onstove.com/ko/games/2930)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/77f0e9c7-328c-4f6a-838c-58fc37438d05/ab0e0b59-ca26-48ed-83b1-d9205b44640d/Untitled.png)
-
-https://youtu.be/8KkMmscgAig?si=VBEI4Tu9-9e2uqUo
 
