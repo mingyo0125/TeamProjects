@@ -4,7 +4,7 @@
 
 
 
-## GRAVITER
+### GRAVITER
 
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/fb3ee05b-2d9e-4883-be81-a74af8f8371f" width="720" height="360"/>
 
@@ -66,7 +66,7 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 #
 
 
-# 너를 위해서라면 마하 12만의 속도도 **견딜** 수 있어
+### 너를 위해서라면 마하 12만의 속도도 **견딜** 수 있어
 
 > **지구에 도달 할 때 까지 명왕성을 조작해 장애물을 피하는 드로퍼 게임**
 > 
