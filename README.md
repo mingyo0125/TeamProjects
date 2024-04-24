@@ -2,7 +2,6 @@
 
 팀 단위로 진행하였던 프로젝트들입니다.
 
-#
 
 ### GRAVITER
 
@@ -33,4 +32,5 @@ https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 | Unity UGUI를 이용한 게임 내 모든 UI 제작 |
 | 플레이어 움직임 제작 |
 
+#
 
