@@ -93,14 +93,10 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 >  | 오랫동안 장애물에 부딪히지 않으면 불타는 BurningSystem 제작 |
 
 
-
-
-
 > **스토브 정보 확인하기**
-> 
+> [게임 소개 글 바로 가기](https://page.onstove.com/indieboostlab/global/view/9955131?boardKey=123437)
+> [스토브 스토어 바로 가기](https://store.onstove.com/ko/games/2930)
 
-[게임 소개 글 바로 가기](https://page.onstove.com/indieboostlab/global/view/9955131?boardKey=123437)
 
-[스토브 스토어 바로 가기](https://store.onstove.com/ko/games/2930)
 
 
