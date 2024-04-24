@@ -38,7 +38,7 @@ https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 
 ## REFLECOTR
 
-<img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/bfd25969-2650-4552-9442-557888b589cb" width="1280" height="600"/>
+<img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/bfd25969-2650-4552-9442-557888b589cb" width="720" height="360"/>
 
 https://github.com/chwfi/TeamProject
 
@@ -64,6 +64,7 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 
 
 #
+
 
 # 너를 위해서라면 마하 12만의 속도도 **견딜** 수 있어
 
