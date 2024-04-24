@@ -10,6 +10,7 @@ https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 
 
 2023 전공 동아리 시간에 제작한 2D 퍼즐 플랫포머 게임 **Graviter**입니다.
+
 <span style="background-color:#fff5b1"> 교내 전공 동아리 프로젝트 전체 3위 </span> 2023 
 
 | 장르 | 퍼즐, 어드벤처 |
