@@ -15,7 +15,7 @@ https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
 2023 전공 동아리 시간에 제작한 2D 퍼즐 플랫포머 게임 **GRAVITER**입니다.
 
 2023 교내 전공 동아리 프로젝트 전체 3위
-
+2023 경기 컨텐츠 창의학교 경진대회 본선 진출작
 
 | 장르 | 퍼즐, 어드벤처 |
 | --- | --- |
@@ -78,6 +78,7 @@ https://github.com/chwfi/TeamProject
 
 https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 
+2024 스토브 인디와 함께하는 제 3회 경기게임마이스터고등학교 게임잼 with 서울디지텍고등학교 우수작 후보, 유저 추천 수 1위
 
 | 장르 | 시뮬레이션, 드로퍼 |
 | --- | --- |
@@ -113,6 +114,8 @@ https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
 https://github.com/rlatjdgh1122/GraduationProject
 
 https://youtu.be/AoQhvPTpHc0?si=INXHWZPcfi5KX59m
+
+2024 교내 졸업작품 3월 교내 평가 15개 팀 중 2위, 5월 플레이엑스포, 안양 진로페스티벌 행사에 전시 예정
 
 
 | 장르 | 전략, 디펜스, 시뮬레이션 |
