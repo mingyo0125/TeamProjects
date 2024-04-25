@@ -83,9 +83,11 @@ https://github.com/ehdbs28/Preventor-Disaster </br>
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/8a40cbc6-90d7-4080-8b8f-a9b4e3198609" width="720" height="360"/>
 
 
-[소스 코드](https://github.com/chwfi/TeamProject)
+[소스 코드](https://github.com/rlatjdgh1122/2024Gamjam)
 
-[유튜브 영상](https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy)
+[게임 소개 영상](https://youtu.be/8KkMmscgAig?si=G6WrDBsPT065HF0X)
+[플레이 영상](https://www.youtube.com/watch?v=88HXjCYQkIE)
+
 
 2024 스토브 인디와 함께하는 제 3회 경기게임마이스터고등학교 게임잼 with 서울디지텍고등학교 우수작 후보, 유저 추천 수 1위
 
