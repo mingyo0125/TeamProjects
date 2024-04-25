@@ -100,6 +100,7 @@ https://github.com/ehdbs28/Preventor-Disaster </br>
 
 
 > **프로젝트 내 맡은 역할**
+> 
  | --- |
  | rag doll을 사용한 플레이어의 흐물거리는 움직임 제작 |
  | 오랫동안 장애물에 부딪히지 않으면 불타는 BurningSystem 제작 |
@@ -137,6 +138,7 @@ https://github.com/ehdbs28/Preventor-Disaster </br>
 | 개발 기간 | 2023.11월 ~ 현재 진행중 |
 
 > **프로젝트 내 맡은 역할**
+>
  | --- |
  | 팩토리 패턴을 이용한 생성 시스템 제작 |
  | 생성시스템을 사용한 건물 시스템 제작 |
