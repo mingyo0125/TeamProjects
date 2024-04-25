@@ -17,9 +17,9 @@ https://github.com/ehdbs28/Preventor-Disaster </br>
 
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/fb3ee05b-2d9e-4883-be81-a74af8f8371f" width="720" height="360"/>
 
-[소스 코드] https://github.com/chwfi/Graviter
+[소스 코드] (https://github.com/chwfi/Graviter)
 
-[유튜브 영상] https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v
+[유튜브 영상] (https://youtu.be/AbOJrPYEJG0?si=3i_IJfwFNDAxPK_v)
 
 2023 전공 동아리 시간에 제작한 2D 퍼즐 플랫포머 게임 **GRAVITER**입니다.
 
@@ -51,9 +51,9 @@ https://github.com/ehdbs28/Preventor-Disaster </br>
 
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/bfd25969-2650-4552-9442-557888b589cb" width="720" height="360"/>
 
-[소스 코드] https://github.com/chwfi/TeamProject
+[소스 코드] (https://github.com/chwfi/TeamProject)
 
-[유튜브 링크] https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
+[유튜브 링크] (https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy)
 
 2023 전공 동아리 시간에 제작한 2D 퍼즐 플랫포머 게임 **GRAVITER**입니다.
 
@@ -83,9 +83,9 @@ https://github.com/ehdbs28/Preventor-Disaster </br>
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/8a40cbc6-90d7-4080-8b8f-a9b4e3198609" width="720" height="360"/>
 
 
-[소스 코드] https://github.com/chwfi/TeamProject
+[소스 코드] (https://github.com/chwfi/TeamProject)
 
-[유튜브 영상] https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy
+[유튜브 영상] (https://youtu.be/7VDdb7OyHnI?si=W9LzaUkRNU8mYpYy)
 
 2024 스토브 인디와 함께하는 제 3회 경기게임마이스터고등학교 게임잼 with 서울디지텍고등학교 우수작 후보, 유저 추천 수 1위
 
@@ -120,9 +120,9 @@ https://github.com/ehdbs28/Preventor-Disaster </br>
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/24398b08-a732-4387-bcc4-e139c230bf3f" width="720" height="360"/>
 
 
-[소스 코드] https://github.com/rlatjdgh1122/GraduationProject
+[소스 코드] (https://github.com/rlatjdgh1122/GraduationProject)
 
-[유튜브 영상] https://youtu.be/AoQhvPTpHc0?si=INXHWZPcfi5KX59m
+[유튜브 영상] (https://youtu.be/AoQhvPTpHc0?si=INXHWZPcfi5KX59m)
 
 2024 교내 졸업작품 3월 교내 평가 15개 팀 중 2위, 5월 플레이엑스포, 안양 진로페스티벌 행사에 전시 예정
 
