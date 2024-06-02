@@ -6,8 +6,6 @@
 
 ![velog]()
 ![notion]()
-<img src="/img/myImg.png" width="300" height="300">
-
 
 # 2022
 
