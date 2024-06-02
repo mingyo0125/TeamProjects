@@ -1,13 +1,6 @@
 # TeamProjects
 팀 단위로 진행하였던 프로젝트들입니다.
 
-<a href="https://velog.io/@mingyo0125/posts">
-    <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/4ec3fbb5-2945-45c0-8ce8-9f1ed0cee1b5" alt="Velog" style="width: 300px; height: auto;">
-</a>
-<a href="https://www.notion.so/c2bf1ad5ac5f46f494080766d6e63d66?pvs=4">
-    <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/d8a41cba-26c5-4e4a-8947-ae21e7848592" alt="Notion" style="width: 300px; height: auto;">
-</a>
-
 # 2022
 
 https://github.com/PuksinPuksin/ConnectSlime </br>
