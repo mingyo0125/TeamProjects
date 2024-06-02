@@ -4,9 +4,6 @@
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/4ec3fbb5-2945-45c0-8ce8-9f1ed0cee1b5" width="50" height="50"/>
 <img src="https://github.com/mingyo0125/TeamProjects/assets/98925706/d8a41cba-26c5-4e4a-8947-ae21e7848592" width="50" height="50"/>
 
-![velog]()
-![notion]()
-
 # 2022
 
 https://github.com/PuksinPuksin/ConnectSlime </br>
